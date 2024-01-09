@@ -103,6 +103,6 @@ $lang['Share'] = 'Partager';
 $lang['Toggle fullscreen'] = 'Toggle fullscreen';
 $lang['Zoom in/out'] = 'Zoom avant/arrière';
 $lang['Picture details'] = 'Détails de l\'image';
-$lang['AutoPlay'] = 'Lecture auto';
+$lang['AutoPlay'] = 'Lecture automatisée';
 $lang['Previous (arrow left)'] = 'Précédent (flèche gauche)';
 $lang['Next (arrow right)'] = 'Suivant (flèche droite)';
