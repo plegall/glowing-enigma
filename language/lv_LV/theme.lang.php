@@ -99,3 +99,4 @@ $lang['Appearance'] = 'Izskats';
 $lang['Page header'] = 'Lapas galvene';
 $lang['Banner style'] = 'Banera stils';
 $lang['Use description rather than title for images'] = 'Lietot aprakstu nevis attēla nosaukumu';
+$lang['AutoPlay'] = 'autotune';
